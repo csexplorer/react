@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.AppButton {
+  padding: 15px 20px;
+  border: none;
+  text-transform: uppercase;
+}
+
+.AppButton:active, .AppButton:focus {
+  outline: none;
+}
+
+.AppButton:hover {
+  background-color: #fdff3d;
+  cursor: pointer;
+}
